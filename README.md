@@ -1,5 +1,7 @@
 # StoryNow
 StoryNow is a mobile application designed to provide users with a diverse and engaging collection of stories. Implementing MVVM (Model-View-ViewModel), clean code, Repository and Injection.
+## APK
+Download : [StoryNow](https://github.com/tinne14/StoryNow/releases/download/v1.0.0/StoryNow.apk)
 ## Feature
 - Upload story image and description with or without location
 - Login and Register
