@@ -19,6 +19,7 @@ Download : [StoryNow](https://github.com/tinne14/StoryNow/releases/download/v1.0
 - DataStore
 - ViewModel
 - LiveData
+- Recycler View
 - Google Maps
 - Material
 - Espresso
